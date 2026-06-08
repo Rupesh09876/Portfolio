@@ -7,8 +7,7 @@ const projects = [
       "Architected a healthcare platform for appointment scheduling, patient management, and real-time doctor-patient video consultation. Integrated Khalti payment gateway and SMS/email notifications.",
     image: "/projects/project1.png",
     tags: ["React", "Vite", "Tailwind CSS", "Node.js", "PostgreSQL", "Drizzle ORM", "ZegoCloud", "Khalti API"],
-    link: "https://github.com/Rupesh09876/WorkBridge",
-    github: "https://github.com/Rupesh09876/WorkBridge",
+    github: "https://github.com/Rupesh09876/SYP---Frontend",
   },
   {
     title: "CodeCamp – AI-Powered Learning Platform",
@@ -16,8 +15,7 @@ const projects = [
       "Engineered a full-stack e-learning platform with interactive coding challenges, AI-powered code reviews, and progress tracking. Built scalable RESTful APIs with JWT and Google OAuth; integrated Monaco Editor.",
     image: "/projects/project2.png",
     tags: ["React", "Tailwind CSS", "Node.js", "MongoDB", "Gemini AI", "Monaco Editor", "Recharts"],
-    link: "https://github.com/Rupesh09876",
-    github: "https://github.com/Rupesh09876",
+    github: "https://github.com/Rupesh09876/CodeCamp-.git",
   },
   {
     title: "WorkBridge – Job Portal Application",
@@ -25,8 +23,7 @@ const projects = [
       "Engineered a comprehensive job portal connecting job seekers and employers with role-based dashboards. Developed robust backend using Java Servlets and Jakarta EE with BCrypt authentication.",
     image: "/projects/project3.png",
     tags: ["Java", "JSP & Servlets", "Jakarta EE", "MySQL", "Maven", "BCrypt"],
-    link: "https://github.com/Rupesh09876/WorkBridge",
-    github: "https://github.com/Rupesh09876/WorkBridge",
+    github: "https://github.com/Rupesh09876/WorkBridge.git",
   },
   {
     title: "Library Management System",
@@ -34,8 +31,7 @@ const projects = [
       "Developed full-stack system with CRUD operations, borrowing/return tracking, and role-based dashboards. Secured with JWT authentication and bcrypt password hashing.",
     image: "/projects/project4.png",
     tags: ["React", "Tailwind CSS", "Node.js", "Express.js", "MongoDB", "JWT", "Mongoose"],
-    link: "https://github.com/Rupesh09876/SYP---Frontend",
-    github: "https://github.com/Rupesh09876/SYP---Frontend",
+    github: "https://github.com/Rupesh09876/LMS.git",
   },
 ];
 
