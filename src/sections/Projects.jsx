@@ -15,7 +15,7 @@ const projects = [
     description:
       "Engineered a full-stack e-learning platform with interactive coding challenges, AI-powered code reviews, and progress tracking. Built scalable RESTful APIs with JWT and Google OAuth; integrated Monaco Editor.",
     image: "/projects/project2.png",
-    tags: ["React", "Tailwind CSS", "Node.js", "MongoDB", "Claude AI", "Monaco Editor", "Recharts"],
+    tags: ["React", "Tailwind CSS", "Node.js", "MongoDB", "Gemini AI", "Monaco Editor", "Recharts"],
     link: "https://github.com/Rupesh09876",
     github: "https://github.com/Rupesh09876",
   },
